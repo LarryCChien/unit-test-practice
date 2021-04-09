@@ -1,0 +1,14 @@
+/.vscode/*
+/.yarn/*
+/.yarn/cache/*
+/.yarn/releases/yarn-2.4.1.cjs
+!/.yarn/releases
+!/.yarn/plugins
+!/.yarn/sdks
+/coverage/*
+/node_modules/*
+
+# Swap the comments on the following lines if you don't wish to use zero-installs
+# Documentation here: https://yarnpkg.com/features/zero-installs
+!/.yarn/cache
+#/.pnp.*
